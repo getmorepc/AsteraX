@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP Video 07 - Movement Challenge.Plugins", "AsteraX UCP Video 07 - Movement Challenge.Plugins.csproj", "{D2FD8080-8793-98EC-574C-4A867C166BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP Video 07 - Movement Challenge.Editor.Plugins", "AsteraX UCP Video 07 - Movement Challenge.Editor.Plugins.csproj", "{208E8DAD-348A-0D5E-2102-76CC00E9CB46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2FD8080-8793-98EC-574C-4A867C166BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FD8080-8793-98EC-574C-4A867C166BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FD8080-8793-98EC-574C-4A867C166BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FD8080-8793-98EC-574C-4A867C166BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{208E8DAD-348A-0D5E-2102-76CC00E9CB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208E8DAD-348A-0D5E-2102-76CC00E9CB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208E8DAD-348A-0D5E-2102-76CC00E9CB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208E8DAD-348A-0D5E-2102-76CC00E9CB46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
